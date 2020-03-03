@@ -5,3 +5,5 @@ Install and setup script for temporary install for Linux based computers.
 
 How it works:
   It's really just a bash script which gets the files from the server (please have the URL ready to input) using wget, then unzips the file and places it in the ~/Documents folder. More instructions from there. 
+
+WIP. Do not expect this to work without customization. Please submit a pull request if you see an issue to fix.
